@@ -1,4 +1,4 @@
-        jiekou=["GET","https://m.wanzhoumo.com/proxy?api_path=%2Fuser%2Fmobilelogincode&v=3.0&fields_version=3.3&mobile={phone}",
+        jiekou=["GET","https://m.wanzhoumo.com/proxy?api_path=%2Fuser%2Fmobilelogincode&v=3.0&fields_version=3.3&mobile={1955610}",
 "GET","https://evun.geely.com/mp/sys/user/captcha?mobile={phone}&type=1",
 "GET","http://m.jinying.com/api/send_captcha.php?mobile={phone}&activity=pointcardWeb&expiry_min=3&companyNo=0145",
 "GET","https://service.wzhxlx.com/wwyy/ceping/sendCode?channelId=99&mobile={phone}",
